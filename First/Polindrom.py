@@ -10,3 +10,5 @@ if(is_palindrom(something)):
     print('Это палиндром')
 else:
     print('Это НЕ палиндром')
+
+print('Добавление какой-то функции')
